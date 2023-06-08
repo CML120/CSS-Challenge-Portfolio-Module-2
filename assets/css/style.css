@@ -54,10 +54,7 @@ body {
 
 .card {
     width: 40%;
-    height: 350px;
-    max-height: 240px;
-    /* border-style: solid;
-    border-width: 1px; */
+    max-height: 280px;
     padding: 20px;
     margin: 20px;
     flex: 0 0 350px;
