@@ -81,6 +81,10 @@ body {
     width: 100%;
 }
 
+.imgLink img:hover{
+    transform: scale(1.35);
+  }
+
 .projects {
     display: flex;
     flex-direction: row;
