@@ -23,3 +23,6 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices  
 THEN I am presented with a responsive layout that adapts to my viewport  
 
+![image](https://github.com/CML120/CSS-Challenge-Portfolio-Module-2/assets/126404917/5579ab6d-133e-4713-9ba3-7baf0eeaf1d7)
+
+Page deployed: https://cml120.github.io/CSS-Challenge-Portfolio-Module-2/
